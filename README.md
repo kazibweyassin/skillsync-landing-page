@@ -1,2 +1,2 @@
-Landing page for portofolio project 
+Landing page for portfolio project 
 ![screen short](image.png)
